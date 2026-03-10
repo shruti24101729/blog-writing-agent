@@ -72,10 +72,7 @@ Mac/Linux: source venv/bin/activate
 
 pip install -r requirements.txt
 
-If requirements.txt is not available:
 
-pip install langgraph langchain langchain-openai streamlit pandas
-python-dotenv
 
 ## 3. Setup Environment Variables
 
