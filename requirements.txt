@@ -1,0 +1,2 @@
+langgraph langchain langchain-openai langchain-core pydantic
+python-dotenv streamlit pandas openai
